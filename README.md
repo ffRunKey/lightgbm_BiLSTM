@@ -75,7 +75,9 @@
 #### 数据下载（data download）（データ　ダウンロード）
   
   本项目的因子数据集（.h5）和深度学习训练数据（.pkl）已上传至百度云。
-   You can download the data in the following URL.
+  
+  You can download the data in the following URL.
    
-    链接(url)：https://pan.baidu.com/s/1B9G0OuPz0Qi3b8WIhPPGKw 
-    提取码(password)：52h2 
+  链接(url)：https://pan.baidu.com/s/1B9G0OuPz0Qi3b8WIhPPGKw
+    
+  提取码(password)：52h2 
